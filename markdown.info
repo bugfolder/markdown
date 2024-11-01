@@ -4,4 +4,7 @@ package = "Input filters"
 backdrop = 1.x
 type = module
 configure = admin/config/content/formats
-php = 5.3
+
+maintainers[bugfolder] = Robert J. Lang
+maintainers[chrisherberte] = Chris Herberte
+maintainers[frjo] = Fredrik Jonsson
